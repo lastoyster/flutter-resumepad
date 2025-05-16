@@ -12,15 +12,7 @@ The app also offers the ability to clear text and start from scratch, as well as
 
 This Editor was developed using Flutter and is mainly targeted for mobile devices as currently there aren't any standalone markdown editors available.
 
-Please star⭐ the repo if you like what you see😊.
 
-## 💻 Installation links
-
-[<img alt='Get it on Google Play' src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="250">](https://play.google.com/store/apps/details?id=com.adeeteya.markdown_editor&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
-
-(or)
-
-[![Download apk](https://img.shields.io/badge/Download-apk-green)](https://github.com/adeeteya/FlutterMarkdownEditor/releases/download/1.2.1/MarkdownEditor-android-1.2.1.apk)
 
 ## ✨ Features
 
@@ -53,10 +45,6 @@ Please star⭐ the repo if you like what you see😊.
 | [**flutter_localizations**](https://pub.dev/packages/flutter_localizations) | Internationalizing app                                      |
 | [**intl**](https://pub.dev/packages/intl)                                   | Provides internationalization and localization facilities   |
 | [**flutter_lints**](https://pub.dev/packages/flutter_lints)                 | For linting                                                 |
-
-## 🤓 Author
-
-**[Aditya R](https://github.com/adeeteya)**
 
 ## 🔖 LICENCE
 Copyright (c) 2023 Aditya R
