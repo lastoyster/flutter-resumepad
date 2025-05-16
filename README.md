@@ -46,9 +46,7 @@ This Editor was developed using Flutter and is mainly targeted for mobile device
 | [**intl**](https://pub.dev/packages/intl)                                   | Provides internationalization and localization facilities   |
 | [**flutter_lints**](https://pub.dev/packages/flutter_lints)                 | For linting                                                 |
 
-## 🔖 LICENCE
-Copyright (c) 2023 Aditya R
-[MIT LICENCE](https://github.com/adeeteya/FlutterMarkdownEditor/blob/master/LICENSE)
+
 
 ## 🙏 Attributions
 <a href="https://www.flaticon.com/free-icons/text-editor" title="text editor icons">Text Editor icons created by Freepik - Flaticon</a>
