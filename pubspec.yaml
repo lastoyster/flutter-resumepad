@@ -1,0 +1,32 @@
+name: markdown_editor
+description: A Flutter app to edit and save markdown files
+
+publish_to: 'none'
+
+version: 1.2.1+4
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_markdown: ^0.6.18+2
+  permission_handler: ^11.1.0
+  url_launcher: ^6.2.2
+  file_picker: ^6.1.1
+  expandable: ^5.0.1
+  flutter_localizations:
+    sdk: flutter
+  intl: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+  generate: true
